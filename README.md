@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yohannes Tarekegn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.https://www.linkedin.com/in/yohannes-tarekegn-11ab91287)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/yojoman4)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
 
@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm an IT graduate passionate about technology, co
 
 ### 📫 How to reach me:
 - Email: [yojoman4@gmail.com](mailto:yojoman4@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.[linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOY0zZoylQUaI1AmmGSB6hA%3D%3D))
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Yohannes Tarekegn](https://www.[linkedin.com/in/yohannes-tarekegn-11ab91287](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287))
+- Twitter: [](https://twitter.com/yourtwitterhandle)
 
 ### 😄 Pronouns: He/Him
 
