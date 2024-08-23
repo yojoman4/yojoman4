@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm an IT graduate passionate about technology, co
 
 ### 📫 How to reach me:
 - Email: [yojoman4@gmail.com](mailto:yojoman4@gmail.com)
-- LinkedIn: [Yohannes Tarekegn](https://www.[linkedin.com/in/yohannes-tarekegn-11ab91287](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287))
+- LinkedIn: [Yohannes Tarekegn](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287))
 - Twitter: [](https://twitter.com/yourtwitterhandle)
 
 ### 😄 Pronouns: He/Him
