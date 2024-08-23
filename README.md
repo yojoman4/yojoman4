@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yohannes Tarekegn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.https://www.linkedin.com/in/yohannes-tarekegn-11ab91287)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/yojoman4)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
 
