@@ -7,12 +7,12 @@
 Welcome to my GitHub profile! I'm an IT graduate passionate about technology, coding, and continuous learning. Here’s a little about me:
 
 ### 🔭 I’m currently working on...
-- An exciting project involving [mention the technologies you're using, e.g., Python, Django, React]
+- An exciting project involving mearn stack 
 - Exploring new ways to improve user experience through innovative software solutions.
 
 ### 🌱 I’m currently learning...
-- Advanced concepts in [mention technologies, e.g., Machine Learning, AI, Cloud Computing].
-- Enhancing my skills in [programming languages or tools, e.g., Python, JavaScript, Docker].
+- Advanced concepts in  Machine Learning, AI.
+- Enhancing my skills in  Python, JavaScript, Docker].
 
 ### 👯 I’m looking to collaborate on...
 - Open-source projects that aim to solve real-world problems.
@@ -24,12 +24,12 @@ Welcome to my GitHub profile! I'm an IT graduate passionate about technology, co
 
 ### 💬 Ask me about...
 - Software development best practices.
-- How to start with [technology you're comfortable with, e.g., Python, Web Development].
+- How to start with  Python, Web Development.
 - Any tech-related questions!
 
 ### 📫 How to reach me:
-- Email: [yojoman4@example.com](mailto:yojoman4@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Email: [yojoman4@gmail.com](mailto:yojoman4@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.[linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOY0zZoylQUaI1AmmGSB6hA%3D%3D))
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ### 😄 Pronouns: He/Him
@@ -66,8 +66,8 @@ Welcome to my GitHub profile! I'm an IT graduate passionate about technology, co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yojoman4&layout=compact&theme=radical)
 
 ### 🚀 My Projects
-- [Project 1](https://github.com/yojoman4/project1): Brief description of what the project is about.
-- [Project 2](https://github.com/yojoman4/project2): Brief description of what the project is about.
-- [Project 3](https://github.com/yojoman4/project3): Brief description of what the project is about.
+- [Project 1](https://github.com/yojoman4/project1).
+- [Project 2](https://github.com/yojoman4/project2): .
+- [Project 3](https://github.com/yojoman4/project3):.
 
 Thanks for visiting my profile! Looking forward to connecting with you! 😊
