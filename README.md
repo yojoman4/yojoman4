@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm an IT graduate passionate about technology, co
 - Any tech-related questions!
 
 ### 📫 How to reach me:
-- Email: [yojoman4@gmail.com](mailto:yojoman4@gmail.com)
+- Email: [yojo3570@gmail.com](mailto:yojoman4@gmail.com)
 - LinkedIn: [Yohannes Tarekegn](https://www.linkedin.com/in/yohannes-tarekegn-11ab91287))
 - Twitter: [](https://twitter.com/yourtwitterhandle)
 
@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm an IT graduate passionate about technology, co
 
 ### ⚡ Fun fact:
 - I love experimenting with new technologies and often participate in hackathons and coding challenges!
-- In my free time, I enjoy [mention hobbies, e.g., playing chess, hiking, or any interesting fact about you].
+- In my free time i enjoy playing chess, hiking...
 
----
+
 
 ### 📊 GitHub Stats
 ![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yojoman4&show_icons=true&theme=radical)
